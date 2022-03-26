@@ -9,7 +9,7 @@ import TrackDisplay from './TrackDisplay';
 import axios from 'axios';
 
 const spotifyApi = new SpotifyWebApi({
-  clientId: 'e953e7f016794c07a2ea4b7e77aab021',
+  clientId: 'SPOTIFY_CLIENT_ID',
 });
 
 export default function Dashboard({ code }) {
