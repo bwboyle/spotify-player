@@ -6,6 +6,8 @@ A music web app built with ReactJS and Spotify Web API
 
 # Usage
 
+IMPORTANT: Add your Spotify client id and client secret to the appropriate files
+
 Run server
 
 ```
